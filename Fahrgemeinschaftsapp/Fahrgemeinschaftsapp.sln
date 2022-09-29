@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fahrgemeinschaftsapp", "Fahrgemeinschaftsapp\Fahrgemeinschaftsapp.csproj", "{F311163B-E831-4D06-B50D-227170B40A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F311163B-E831-4D06-B50D-227170B40A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F311163B-E831-4D06-B50D-227170B40A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F311163B-E831-4D06-B50D-227170B40A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F311163B-E831-4D06-B50D-227170B40A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7B38615-D624-4098-9FAB-96012430EABC}
+	EndGlobalSection
+EndGlobal
